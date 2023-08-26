@@ -1,5 +1,6 @@
 # Histogram-Equalization-Specification-Demo
-Auxiliary Programs for Image Processing Learning
+
+This project help you understand the concepts of histogram equalization and histogram specification in image processing learning from a programming perspective. 
 
 ## Usage
 
